@@ -1,0 +1,373 @@
+2023-03-30T22:39:25.046Z [mybank-api] info: POST/ Account: {"id":21,"name":"Pau","email":"pauloarchilha@gmail.com","balance":5000}
+2023-03-30T22:46:13.384Z [mybank-api] info: POST/ Account: {"id":22,"name":"Pau","email":"pauloarchilha@gmail.com","balance":5000}
+2023-03-30T22:46:17.226Z [mybank-api] error: POST undefined - Name e Balance is required
+2023-03-30T22:46:31.561Z [mybank-api] info: POST/ Account: {"id":23,"name":"Pau"}
+2023-03-30T22:46:34.003Z [mybank-api] info: POST/ Account: {"id":24,"name":"Pau"}
+2023-03-30T22:46:34.704Z [mybank-api] info: POST/ Account: {"id":25,"name":"Pau"}
+2023-03-30T22:47:03.436Z [mybank-api] error: POST undefined - Name e Balance is required
+2023-03-30T22:47:04.696Z [mybank-api] error: POST undefined - Name e Balance is required
+2023-03-30T22:47:05.423Z [mybank-api] error: POST undefined - Name e Balance is required
+2023-03-30T22:47:07.777Z [mybank-api] info: POST/ Account: {"id":26,"name":"Pau","balance":5000}
+2023-03-30T22:47:09.698Z [mybank-api] info: POST/ Account: {"id":27,"name":"Pau","email":"pauloarchilha@gmail.com","balance":5000}
+2023-03-30T22:47:17.364Z [mybank-api] error: POST undefined - Name e Balance is required
+2023-03-30T22:47:28.438Z [mybank-api] error: POST undefined - Name e Balance is required
+2023-03-30T22:47:29.304Z [mybank-api] error: POST undefined - Name e Balance is required
+2023-03-30T22:47:29.902Z [mybank-api] error: POST undefined - Name e Balance is required
+2023-03-30T22:47:30.402Z [mybank-api] error: POST undefined - Name e Balance is required
+2023-03-30T22:47:30.581Z [mybank-api] error: POST undefined - Name e Balance is required
+2023-03-30T22:47:30.786Z [mybank-api] error: POST undefined - Name e Balance is required
+2023-03-30T22:47:30.948Z [mybank-api] error: POST undefined - Name e Balance is required
+2023-03-30T22:47:31.114Z [mybank-api] error: POST undefined - Name e Balance is required
+2023-03-30T22:47:31.280Z [mybank-api] error: POST undefined - Name e Balance is required
+2023-03-30T22:47:31.484Z [mybank-api] error: POST undefined - Name e Balance is required
+2023-03-30T22:47:31.705Z [mybank-api] error: POST undefined - Name e Balance is required
+2023-03-30T22:47:51.428Z [mybank-api] info: POST/ Account: {"id":28,"name":"Pau","email":"pauloarchilha@gmail.com"}
+2023-03-30T22:47:53.858Z [mybank-api] info: POST/ Account: {"id":29,"name":"Pau","email":"pauloarchilha@gmail.com"}
+2023-03-30T22:48:03.724Z [mybank-api] info: POST/ Account: {"id":30,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-03-30T22:48:04.661Z [mybank-api] info: POST/ Account: {"id":31,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-03-30T22:48:05.284Z [mybank-api] info: POST/ Account: {"id":32,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-03-30T22:48:11.319Z [mybank-api] error: POST undefined - Name e Balance is required
+2023-03-30T22:48:12.207Z [mybank-api] error: POST undefined - Name e Balance is required
+2023-03-30T22:48:12.424Z [mybank-api] error: POST undefined - Name e Balance is required
+2023-03-30T22:48:12.620Z [mybank-api] error: POST undefined - Name e Balance is required
+2023-03-30T22:58:21.297Z [mybank-api] info: PUT/ Account: [object Object]
+2023-03-30T22:58:22.302Z [mybank-api] info: PUT/ Account: [object Object]
+2023-03-30T22:58:22.826Z [mybank-api] info: PUT/ Account: [object Object]
+2023-03-30T22:58:23.101Z [mybank-api] info: PUT/ Account: [object Object]
+2023-03-30T22:58:23.293Z [mybank-api] info: PUT/ Account: [object Object]
+2023-03-30T22:58:24.876Z [mybank-api] info: PUT/ Account: [object Object]
+2023-03-30T22:58:25.399Z [mybank-api] info: PUT/ Account: [object Object]
+2023-03-30T22:58:25.732Z [mybank-api] info: PUT/ Account: [object Object]
+2023-03-30T22:58:25.990Z [mybank-api] info: PUT/ Account: [object Object]
+2023-03-30T22:58:26.200Z [mybank-api] info: PUT/ Account: [object Object]
+2023-03-30T22:58:26.510Z [mybank-api] info: PUT/ Account: [object Object]
+2023-03-30T22:58:27.240Z [mybank-api] info: PUT/ Account: [object Object]
+2023-03-30T22:58:27.556Z [mybank-api] info: PUT/ Account: [object Object]
+2023-03-30T22:58:27.749Z [mybank-api] info: PUT/ Account: [object Object]
+2023-03-30T22:58:27.952Z [mybank-api] info: PUT/ Account: [object Object]
+2023-03-30T22:58:28.280Z [mybank-api] info: PUT/ Account: [object Object]
+2023-03-30T22:59:11.854Z [mybank-api] error: PUT undefined - Registration not found!
+2023-03-30T22:59:18.424Z [mybank-api] error: PUT undefined - Registration not found!
+2023-03-30T22:59:19.320Z [mybank-api] error: PUT undefined - Registration not found!
+2023-03-30T22:59:22.981Z [mybank-api] error: PUT undefined - Registration not found!
+2023-03-30T22:59:26.083Z [mybank-api] error: PUT undefined - Registration not found!
+2023-03-30T22:59:29.029Z [mybank-api] info: PUT/ Account: [object Object]
+2023-03-30T22:59:34.321Z [mybank-api] info: GET/ Account
+2023-03-30T22:59:40.859Z [mybank-api] info: GET/ Account/:id 
+2023-03-30T23:10:14.682Z [mybank-api] info: PUT/ Account: [object Object]
+2023-03-30T23:10:15.453Z [mybank-api] info: PUT/ Account: [object Object]
+2023-03-30T23:10:17.651Z [mybank-api] info: PUT/ Account: [object Object]
+2023-03-30T23:10:18.721Z [mybank-api] info: PUT/ Account: [object Object]
+2023-03-30T23:11:08.449Z [mybank-api] info: PUT/ Account: {"id":10,"name":"Paulaaao","email":"pauloarchilha@gmail.com","balance":5000}
+2023-03-30T23:11:14.063Z [mybank-api] error: PUT undefined - Id, Name and Balance is required!
+2023-03-30T23:11:27.081Z [mybank-api] error: PUT undefined - Id, Name and Balance is required!
+2023-03-30T23:11:27.855Z [mybank-api] error: PUT undefined - Id, Name and Balance is required!
+2023-03-30T23:11:58.894Z [mybank-api] info: PUT/ Account: {"id":11,"name":"Paulaaao","email":"pauloarchilha@gmail.com","balance":5000}
+2023-03-30T23:12:03.461Z [mybank-api] error: PUT undefined - Id, Name and Balance is required!
+2023-03-30T23:12:09.210Z [mybank-api] info: PUT/ Account: {"id":11,"name":"Paulaaao","balance":5000}
+2023-03-30T23:13:36.153Z [mybank-api] info: PUT/ Account: {"id":11,"name":"Paulaaao","email":"pauloarchilha@gmail.com","balance":5000}
+2023-03-30T23:13:36.917Z [mybank-api] info: PUT/ Account: {"id":11,"name":"Paulaaao","email":"pauloarchilha@gmail.com","balance":5000}
+2023-03-30T23:13:39.484Z [mybank-api] info: PATCH/ Account/updateBalance : [object Object]
+2023-03-30T23:13:43.122Z [mybank-api] info: GET/ Account
+2023-03-30T23:13:51.950Z [mybank-api] info: POST/ Account: {"id":33,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-03-30T23:13:53.018Z [mybank-api] info: POST/ Account: {"id":34,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-03-30T23:13:53.615Z [mybank-api] info: POST/ Account: {"id":35,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-03-30T23:13:54.197Z [mybank-api] info: POST/ Account: {"id":36,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-03-30T23:13:55.053Z [mybank-api] info: POST/ Account: {"id":37,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-03-30T23:13:55.658Z [mybank-api] info: POST/ Account: {"id":38,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-03-30T23:19:05.988Z [mybank-api] info: GET/ Account
+2023-03-30T23:19:06.659Z [mybank-api] info: GET/ Account
+2023-03-30T23:20:22.855Z [mybank-api] info: GET/ Account
+2023-03-30T23:20:23.118Z [mybank-api] info: GET/ Account
+2023-03-30T23:21:50.289Z [mybank-api] info: GET/ Account
+2023-03-30T23:21:50.849Z [mybank-api] info: GET/ Account
+2023-03-30T23:22:13.128Z [mybank-api] info: GET/ Account
+2023-03-30T23:22:19.826Z [mybank-api] info: GET/ Account
+2023-03-30T23:22:20.234Z [mybank-api] info: GET/ Account
+2023-03-30T23:22:22.472Z [mybank-api] info: GET/ Account
+2023-03-30T23:25:18.470Z [mybank-api] info: GET/ Account
+2023-03-30T23:25:36.134Z [mybank-api] info: GET/ Account
+2023-03-30T23:29:00.932Z [mybank-api] info: GET/ Account
+2023-04-03T23:02:25.912Z [mybank-api] info: POST/ Account: {"id":39,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-03T23:02:26.775Z [mybank-api] info: POST/ Account: {"id":40,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-03T23:02:37.497Z [mybank-api] info: POST/ Account: {"id":41,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-03T23:02:38.230Z [mybank-api] info: POST/ Account: {"id":42,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-03T23:02:43.556Z [mybank-api] info: PUT/ Account: {"id":11,"name":"Paulaaao","email":"pauloarchilha@gmail.com","balance":5000}
+2023-04-03T23:02:44.316Z [mybank-api] info: PUT/ Account: {"id":11,"name":"Paulaaao","email":"pauloarchilha@gmail.com","balance":5000}
+2023-04-03T23:02:50.911Z [mybank-api] info: GET/ Account
+2023-04-03T23:02:55.145Z [mybank-api] info: GET/ Account
+2023-04-03T23:26:51.245Z [mybank-api] info: GET/ Account/:id 
+2023-04-03T23:26:55.863Z [mybank-api] info: GET/ Account/:id 
+2023-04-03T23:26:58.597Z [mybank-api] info: GET/ Account
+2023-04-03T23:27:02.268Z [mybank-api] info: DELETE/ Account/:id 5
+2023-04-03T23:27:05.553Z [mybank-api] info: DELETE/ Account/:id 10
+2023-04-03T23:27:09.714Z [mybank-api] info: DELETE/ Account/:id 20
+2023-04-03T23:27:13.829Z [mybank-api] info: GET/ Account
+2023-04-03T23:27:31.518Z [mybank-api] info: PUT/ Account: {"id":11,"name":"Paulaaao","email":"pauloarchilha@gmail.com","balance":50001}
+2023-04-03T23:27:34.512Z [mybank-api] info: GET/ Account
+2023-04-03T23:27:46.533Z [mybank-api] info: PATCH/ Account/updateBalance : [object Object]
+2023-04-03T23:27:50.211Z [mybank-api] info: GET/ Account
+2023-04-03T23:28:02.305Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-03T23:28:06.919Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-03T23:28:08.358Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-03T23:28:08.549Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-03T23:28:08.741Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-03T23:28:08.920Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-03T23:28:12.717Z [mybank-api] info: GET/ Account
+2023-04-03T23:28:21.562Z [mybank-api] info: POST/ Account: {"id":43,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-03T23:28:22.273Z [mybank-api] info: POST/ Account: {"id":44,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-03T23:28:45.460Z [mybank-api] info: POST/ Account: {"id":45,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-03T23:28:46.685Z [mybank-api] info: POST/ Account: {"id":46,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-03T23:28:47.509Z [mybank-api] info: POST/ Account: {"id":47,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-03T23:28:47.882Z [mybank-api] info: POST/ Account: {"id":48,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-03T23:28:48.077Z [mybank-api] info: POST/ Account: {"id":49,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-03T23:28:48.241Z [mybank-api] info: POST/ Account: {"id":50,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-03T23:28:48.419Z [mybank-api] info: POST/ Account: {"id":51,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-03T23:28:48.598Z [mybank-api] info: POST/ Account: {"id":52,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-03T23:28:48.744Z [mybank-api] info: POST/ Account: {"id":53,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T00:00:40.691Z [mybank-api] info: GET/ Account
+2023-04-04T00:00:42.760Z [mybank-api] info: GET/ Account
+2023-04-04T00:00:43.583Z [mybank-api] info: GET/ Account
+2023-04-04T00:00:44.336Z [mybank-api] info: GET/ Account
+2023-04-04T00:00:44.987Z [mybank-api] info: GET/ Account
+2023-04-04T00:00:45.220Z [mybank-api] info: GET/ Account
+2023-04-04T00:00:45.445Z [mybank-api] info: GET/ Account
+2023-04-04T00:00:48.405Z [mybank-api] error: GET undefined - AccountService.getAccountsId is not a function
+2023-04-04T00:00:52.000Z [mybank-api] error: GET undefined - AccountService.getAccountsId is not a function
+2023-04-04T00:00:52.907Z [mybank-api] error: GET undefined - AccountService.getAccountsId is not a function
+2023-04-04T00:00:54.980Z [mybank-api] error: GET undefined - AccountService.getAccountsId is not a function
+2023-04-04T00:00:55.684Z [mybank-api] error: GET undefined - AccountService.getAccountsId is not a function
+2023-04-04T00:01:00.273Z [mybank-api] error: GET undefined - AccountService.getAccountsId is not a function
+2023-04-04T00:01:01.054Z [mybank-api] error: GET undefined - AccountService.getAccountsId is not a function
+2023-04-04T00:06:14.112Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:06:15.187Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:06:17.886Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:06:22.505Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:06:23.176Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:06:23.390Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:06:23.635Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:06:25.529Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:06:29.131Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:07:18.066Z [mybank-api] error: GET undefined - AccountService.getAccountsId is not a function
+2023-04-04T00:07:37.640Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:07:38.418Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:07:39.477Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:07:41.640Z [mybank-api] info: GET/ Account
+2023-04-04T00:07:42.384Z [mybank-api] info: GET/ Account
+2023-04-04T00:07:51.968Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:07:56.929Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:07:57.831Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:07:58.385Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:07:59.951Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:08:00.615Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:08:01.425Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:08:02.003Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:08:04.374Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:10:33.326Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:10:34.821Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:10:37.387Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:14:49.375Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:14:52.459Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:14:54.482Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:14:56.459Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:14:58.994Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:15:01.494Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:15:03.653Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T00:15:06.566Z [mybank-api] info: POST/ Account: {"id":54,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T00:15:07.431Z [mybank-api] info: POST/ Account: {"id":55,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T00:15:10.872Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-04T00:15:11.938Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-04T00:15:12.670Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-04T00:15:12.931Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-04T00:15:13.136Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-04T00:15:13.316Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-04T00:15:13.532Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-04T00:15:13.738Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-04T00:15:24.749Z [mybank-api] error: PUT undefined - Id, Name and Balance is required!
+2023-04-04T00:15:26.422Z [mybank-api] error: PUT undefined - Id, Name and Balance is required!
+2023-04-04T00:15:34.091Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-04T00:15:42.148Z [mybank-api] info: PUT/ Account: {"id":6,"name":"Paulaaao","email":"pauloarchilha@gmail.com","balance":50001}
+2023-04-04T00:15:43.727Z [mybank-api] info: PUT/ Account: {"id":6,"name":"Paulaaao","email":"pauloarchilha@gmail.com","balance":50001}
+2023-04-04T00:15:52.525Z [mybank-api] info: DELETE/ Account/:id 6
+2023-04-04T00:15:55.691Z [mybank-api] info: GET/ Account
+2023-04-04T21:26:41.480Z [mybank-api] error: GET undefined - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function getAccounts
+2023-04-04T21:26:44.917Z [mybank-api] error: GET undefined - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function getAccounts
+2023-04-04T21:26:46.396Z [mybank-api] error: GET undefined - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function getAccounts
+2023-04-04T21:26:53.239Z [mybank-api] error: GET undefined - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function getAccounts
+2023-04-04T21:27:44.326Z [mybank-api] error: GET undefined - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function getAccounts
+2023-04-04T21:27:45.195Z [mybank-api] error: GET undefined - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function getAccounts
+2023-04-04T21:27:55.271Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:27:57.381Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:28:00.368Z [mybank-api] error: GET undefined - Couldn't find account
+2023-04-04T21:28:04.196Z [mybank-api] error: GET undefined - Couldn't find account
+2023-04-04T21:28:06.857Z [mybank-api] error: GET undefined - Couldn't find account
+2023-04-04T21:28:08.811Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:28:14.377Z [mybank-api] info: DELETE/ Account/:id 7
+2023-04-04T21:28:18.293Z [mybank-api] error: GET undefined - Couldn't find account
+2023-04-04T21:28:20.484Z [mybank-api] error: GET undefined - Couldn't find account
+2023-04-04T21:28:21.112Z [mybank-api] error: GET undefined - Couldn't find account
+2023-04-04T21:28:23.548Z [mybank-api] error: GET undefined - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function getAccounts
+2023-04-04T21:29:49.761Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:29:59.320Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:30:00.086Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:30:00.336Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:30:00.573Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:30:05.969Z [mybank-api] error: GET undefined - Couldn't find account
+2023-04-04T21:30:09.922Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:30:10.974Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:30:18.665Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:30:23.978Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:30:25.158Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:32:13.614Z [mybank-api] error: GET undefined - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function getAccounts
+2023-04-04T21:32:17.773Z [mybank-api] error: GET undefined - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function getAccounts
+2023-04-04T21:32:18.430Z [mybank-api] error: GET undefined - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function getAccounts
+2023-04-04T21:32:18.656Z [mybank-api] error: GET undefined - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function getAccounts
+2023-04-04T21:32:18.904Z [mybank-api] error: GET undefined - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function getAccounts
+2023-04-04T21:34:46.897Z [mybank-api] error: GET undefined - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function getAccounts
+2023-04-04T21:34:47.734Z [mybank-api] error: GET undefined - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function getAccounts
+2023-04-04T21:34:47.928Z [mybank-api] error: GET undefined - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function getAccounts
+2023-04-04T21:34:48.134Z [mybank-api] error: GET undefined - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function getAccounts
+2023-04-04T21:34:48.302Z [mybank-api] error: GET undefined - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function getAccounts
+2023-04-04T21:34:48.486Z [mybank-api] error: GET undefined - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function getAccounts
+2023-04-04T21:34:48.654Z [mybank-api] error: GET undefined - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function getAccounts
+2023-04-04T21:35:01.111Z [mybank-api] error: GET undefined - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function getAccounts
+2023-04-04T21:35:11.133Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:35:11.852Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:35:12.050Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:35:12.247Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:35:15.982Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:35:16.797Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:35:17.076Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:35:17.316Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:35:17.508Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:35:17.716Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:35:17.908Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:35:20.908Z [mybank-api] info: POST/ Account: {"id":56,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:35:21.466Z [mybank-api] info: POST/ Account: {"id":57,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:35:21.846Z [mybank-api] info: POST/ Account: {"id":58,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:35:22.554Z [mybank-api] info: POST/ Account: {"id":59,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:35:23.064Z [mybank-api] info: POST/ Account: {"id":60,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:35:38.287Z [mybank-api] error: POST undefined - ENOENT: no such file or directory, open 'E:\Dev\Cursos\XPE\Bootcamp Node.JS\Módulo 1\mybank-api\accounts.json'
+2023-04-04T21:35:39.118Z [mybank-api] error: POST undefined - ENOENT: no such file or directory, open 'E:\Dev\Cursos\XPE\Bootcamp Node.JS\Módulo 1\mybank-api\accounts.json'
+2023-04-04T21:35:40.839Z [mybank-api] error: POST undefined - ENOENT: no such file or directory, open 'E:\Dev\Cursos\XPE\Bootcamp Node.JS\Módulo 1\mybank-api\accounts.json'
+2023-04-04T21:35:43.812Z [mybank-api] error: POST undefined - ENOENT: no such file or directory, open 'E:\Dev\Cursos\XPE\Bootcamp Node.JS\Módulo 1\mybank-api\accounts.json'
+2023-04-04T21:35:44.866Z [mybank-api] error: POST undefined - ENOENT: no such file or directory, open 'E:\Dev\Cursos\XPE\Bootcamp Node.JS\Módulo 1\mybank-api\accounts.json'
+2023-04-04T21:35:45.096Z [mybank-api] error: POST undefined - ENOENT: no such file or directory, open 'E:\Dev\Cursos\XPE\Bootcamp Node.JS\Módulo 1\mybank-api\accounts.json'
+2023-04-04T21:35:45.326Z [mybank-api] error: POST undefined - ENOENT: no such file or directory, open 'E:\Dev\Cursos\XPE\Bootcamp Node.JS\Módulo 1\mybank-api\accounts.json'
+2023-04-04T21:35:45.516Z [mybank-api] error: POST undefined - ENOENT: no such file or directory, open 'E:\Dev\Cursos\XPE\Bootcamp Node.JS\Módulo 1\mybank-api\accounts.json'
+2023-04-04T21:35:48.709Z [mybank-api] error: GET undefined - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function getAccounts
+2023-04-04T21:35:50.674Z [mybank-api] error: POST undefined - ENOENT: no such file or directory, open 'E:\Dev\Cursos\XPE\Bootcamp Node.JS\Módulo 1\mybank-api\accounts.json'
+2023-04-04T21:35:53.645Z [mybank-api] error: POST undefined - ENOENT: no such file or directory, open 'E:\Dev\Cursos\XPE\Bootcamp Node.JS\Módulo 1\mybank-api\accounts.json'
+2023-04-04T21:36:14.912Z [mybank-api] info: POST/ Account: {"id":1,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:36:15.899Z [mybank-api] info: POST/ Account: {"id":2,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:36:16.520Z [mybank-api] info: POST/ Account: {"id":3,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:36:16.979Z [mybank-api] info: POST/ Account: {"id":4,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:36:17.197Z [mybank-api] info: POST/ Account: {"id":5,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:36:17.400Z [mybank-api] info: POST/ Account: {"id":6,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:36:17.574Z [mybank-api] info: POST/ Account: {"id":7,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:36:17.749Z [mybank-api] info: POST/ Account: {"id":8,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:36:17.905Z [mybank-api] info: POST/ Account: {"id":9,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:36:18.164Z [mybank-api] info: POST/ Account: {"id":10,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:36:18.392Z [mybank-api] info: POST/ Account: {"id":11,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:36:18.596Z [mybank-api] info: POST/ Account: {"id":12,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:36:18.769Z [mybank-api] info: POST/ Account: {"id":13,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:36:18.965Z [mybank-api] info: POST/ Account: {"id":14,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:36:19.153Z [mybank-api] info: POST/ Account: {"id":15,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:36:19.342Z [mybank-api] info: POST/ Account: {"id":16,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:36:19.516Z [mybank-api] info: POST/ Account: {"id":17,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:36:19.741Z [mybank-api] info: POST/ Account: {"id":18,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:36:26.828Z [mybank-api] info: POST/ Account: {"id":19,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:36:27.584Z [mybank-api] info: POST/ Account: {"id":20,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:36:28.153Z [mybank-api] info: POST/ Account: {"id":21,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:36:49.297Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:36:50.296Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:36:53.228Z [mybank-api] error: GET undefined - The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function getAccounts
+2023-04-04T21:37:09.031Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:37:10.147Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:40:21.694Z [mybank-api] info: GET/ Account
+2023-04-04T21:40:22.565Z [mybank-api] info: GET/ Account
+2023-04-04T21:40:23.822Z [mybank-api] info: GET/ Account
+2023-04-04T21:40:24.534Z [mybank-api] info: GET/ Account
+2023-04-04T21:40:52.182Z [mybank-api] info: GET/ Account
+2023-04-04T21:40:56.200Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-04T21:40:56.891Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-04T21:40:57.458Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-04T21:40:57.967Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-04T21:40:58.601Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-04T21:40:59.131Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-04T21:40:59.574Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-04T21:40:59.830Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-04T21:41:00.022Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-04T21:41:00.213Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-04T21:41:00.489Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-04T21:41:00.746Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-04T21:41:01.018Z [mybank-api] error: PUT undefined - Registration not found!
+2023-04-04T21:41:05.486Z [mybank-api] info: POST/ Account: {"id":1,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:41:06.228Z [mybank-api] info: POST/ Account: {"id":2,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:41:06.827Z [mybank-api] info: POST/ Account: {"id":3,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:41:07.236Z [mybank-api] info: POST/ Account: {"id":4,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:41:07.433Z [mybank-api] info: POST/ Account: {"id":5,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:41:07.637Z [mybank-api] info: POST/ Account: {"id":6,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:41:07.877Z [mybank-api] info: POST/ Account: {"id":7,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:41:08.056Z [mybank-api] info: POST/ Account: {"id":8,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:41:08.212Z [mybank-api] info: POST/ Account: {"id":9,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:41:09.374Z [mybank-api] info: POST/ Account: {"id":10,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:41:09.748Z [mybank-api] info: POST/ Account: {"id":11,"name":"Pau","email":"pauloarchilha@gmail.com","balance":0}
+2023-04-04T21:41:11.973Z [mybank-api] info: GET/ Account
+2023-04-04T21:41:41.067Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:41:47.722Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:41:50.443Z [mybank-api] info: GET/ Account
+2023-04-04T21:42:02.662Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:42:13.195Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:42:40.291Z [mybank-api] info: GET/ Account
+2023-04-04T21:42:40.964Z [mybank-api] info: GET/ Account
+2023-04-04T21:42:46.723Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:42:47.550Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:42:47.803Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:42:48.044Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:42:48.246Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:42:48.513Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:42:51.679Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:43:04.927Z [mybank-api] info: GET/ Account
+2023-04-04T21:43:09.695Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:43:12.507Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:43:15.630Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:43:18.942Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:43:19.830Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:43:25.943Z [mybank-api] info: GET/ Account
+2023-04-04T21:43:28.503Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:43:32.377Z [mybank-api] info: GET/ Account/:id 
+2023-04-04T21:43:39.628Z [mybank-api] info: POST/ Account: {"id":12,"name":"Pau","email":"pauloarchilha@gmail.com","balance":12}
+2023-04-04T21:43:47.036Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:43:47.867Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:43:56.881Z [mybank-api] info: GET/ Account
+2023-04-04T21:44:05.603Z [mybank-api] info: DELETE/ Account/:id 12
+2023-04-04T21:44:06.664Z [mybank-api] info: DELETE/ Account/:id 12
+2023-04-04T21:44:07.842Z [mybank-api] info: DELETE/ Account/:id 12
+2023-04-04T21:44:08.038Z [mybank-api] info: DELETE/ Account/:id 12
+2023-04-04T21:44:08.259Z [mybank-api] info: DELETE/ Account/:id 12
+2023-04-04T21:44:08.455Z [mybank-api] info: DELETE/ Account/:id 12
+2023-04-04T21:44:12.443Z [mybank-api] info: GET/ Account
+2023-04-04T21:44:17.725Z [mybank-api] info: DELETE/ Account/:id 11
+2023-04-04T21:44:20.701Z [mybank-api] info: DELETE/ Account/:id 10
+2023-04-04T21:44:22.979Z [mybank-api] info: GET/ Account
+2023-04-04T21:44:45.279Z [mybank-api] info: POST/ Account: {"id":13,"name":"Pau","email":"pauloarchilha@gmail.com","balance":12}
+2023-04-04T21:45:04.274Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:45:04.839Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:45:05.025Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:45:05.206Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:45:05.413Z [mybank-api] error: PUT undefined - account is not defined
+2023-04-04T21:46:14.511Z [mybank-api] error: PATCH undefined - account is not defined
+2023-04-04T21:48:33.700Z [mybank-api] info: PUT/ Account: {"id":1,"name":"Pa3333","email":"pauloarchilha@gmail.com","balance":1}
+2023-04-04T21:48:36.558Z [mybank-api] info: GET/ Account
+2023-04-04T21:48:38.828Z [mybank-api] info: GET/ Account
+2023-04-04T21:48:41.051Z [mybank-api] info: PATCH/ Account/updateBalance : [object Object]
+2023-04-04T21:48:44.366Z [mybank-api] info: PATCH/ Account/updateBalance : [object Object]
+2023-04-04T21:48:45.222Z [mybank-api] info: PATCH/ Account/updateBalance : [object Object]
+2023-04-04T21:48:50.294Z [mybank-api] info: GET/ Account
+2023-04-04T21:49:00.007Z [mybank-api] info: PATCH/ Account/updateBalance : [object Object]
+2023-04-04T21:49:04.497Z [mybank-api] info: PATCH/ Account/updateBalance : [object Object]
+2023-04-04T21:49:07.439Z [mybank-api] info: PATCH/ Account/updateBalance : [object Object]
+2023-04-04T21:49:10.038Z [mybank-api] info: GET/ Account
+2023-04-04T21:49:26.243Z [mybank-api] info: PUT/ Account: {"id":6,"name":"Pa555555566666666","email":"pauloarchilha@gmail.com","balance":1}
+2023-04-04T21:49:31.326Z [mybank-api] info: GET/ Account

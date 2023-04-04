@@ -1,0 +1,65 @@
+{
+  "nextId": 14,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Pa3333",
+      "email": "pauloarchilha@gmail.com",
+      "balance": 1
+    },
+    {
+      "id": 2,
+      "name": "Pau",
+      "email": "pauloarchilha@gmail.com",
+      "balance": 2
+    },
+    {
+      "id": 3,
+      "name": "Pau",
+      "email": "pauloarchilha@gmail.com",
+      "balance": 3
+    },
+    {
+      "id": 4,
+      "name": "Pau",
+      "email": "pauloarchilha@gmail.com",
+      "balance": 4
+    },
+    {
+      "id": 5,
+      "name": "Pau",
+      "email": "pauloarchilha@gmail.com",
+      "balance": 5
+    },
+    {
+      "id": 6,
+      "name": "Pa555555566666666",
+      "email": "pauloarchilha@gmail.com",
+      "balance": 1
+    },
+    {
+      "id": 7,
+      "name": "Pau",
+      "email": "pauloarchilha@gmail.com",
+      "balance": 0
+    },
+    {
+      "id": 8,
+      "name": "Pau",
+      "email": "pauloarchilha@gmail.com",
+      "balance": 0
+    },
+    {
+      "id": 9,
+      "name": "Pau",
+      "email": "pauloarchilha@gmail.com",
+      "balance": 0
+    },
+    {
+      "id": 13,
+      "name": "Pau",
+      "email": "pauloarchilha@gmail.com",
+      "balance": 12
+    }
+  ]
+}
